@@ -11,3 +11,4 @@ Automated and verified release changelog.
 - [2025-12-16 18:03] chore(profile): craft interactive GitHub profile README with real-time stats
 - [2025-12-19 09:30] chore(ci): configure shared GitHub Actions reusable workflow templates
 - [2025-12-19 13:46] chore(labels): standardize issue and pull request label taxonomy across repositories
+- [2025-12-19 18:02] chore(templates): add comprehensive bug report and feature request issue templates
