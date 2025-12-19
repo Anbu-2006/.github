@@ -10,3 +10,4 @@ Automated and verified release changelog.
 - [2025-12-16 13:44] style(badges): add verified tech stack and architecture competency shields
 - [2025-12-16 18:03] chore(profile): craft interactive GitHub profile README with real-time stats
 - [2025-12-19 09:30] chore(ci): configure shared GitHub Actions reusable workflow templates
+- [2025-12-19 13:46] chore(labels): standardize issue and pull request label taxonomy across repositories
