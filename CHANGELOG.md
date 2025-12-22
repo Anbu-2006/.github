@@ -13,3 +13,4 @@ Automated and verified release changelog.
 - [2025-12-19 13:46] chore(labels): standardize issue and pull request label taxonomy across repositories
 - [2025-12-19 18:02] chore(templates): add comprehensive bug report and feature request issue templates
 - [2025-12-22 09:22] chore(security): establish vulnerability disclosure policy and SECURITY.md
+- [2025-12-22 15:52] style(badges): add verified tech stack and architecture competency shields
