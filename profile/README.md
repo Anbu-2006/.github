@@ -88,17 +88,6 @@ I am actively upskilling to become a **Full-Stack Data Engineer**.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anbu-2006&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anbu-2006&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="languages graph" />
-
-</div>
-
----
-
 <div align="center">
 
 *"The code is just the beginning. The architecture is the destination."*
