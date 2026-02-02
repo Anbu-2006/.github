@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anbu!+%F0%9F%91%8B;AI+%26+Data+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anbu!+%F0%9F%91%8B;AI+%26+Data+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
 
 **Bridging the gap between Complex AI Models and Production Infrastructure.**
 
