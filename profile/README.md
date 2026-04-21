@@ -9,8 +9,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-anbudev.me-2E86C1?style=for-the-badge&logo=codeigniter)](https://anbudev.me)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:anbuanbu8636@gmail.com)
 
-**[⬇️ Jump to Technical Skills Matrix](#️-technical-arsenal)**
-
 </div>
 
 ---
@@ -18,19 +16,6 @@
 ## 👨‍💻 Professional Profile
 
 I am a **Backend & Context Engineer** specializing in the architecture of production-ready AI Proof of Concepts (POCs) and secure infrastructure. My expertise lies in orchestrating agentic workflows, managing advanced retrieval systems (RAG), and deploying high-performance, data-driven applications.
-
----
-
-## 📌 Pinned Architecture & Projects
-
-**🌊 Argo FloatChat | Agentic RAG Architecture**
-> *An Agentic RAG pipeline for conversational discovery within complex scientific NetCDF datasets, optimized for sub-2s latency through hierarchical chunking.*
-
-**🛡️ Project Aegis | Security AI Backend**
-> *A Zero-Trust fraud detection backend utilizing intent analysis, audio scanning, and high-performance SQL query optimization.*
-
-**🚨 Project Healer | Healthcare AI System**
-> *A HIPAA-aligned, sensor-based emergency detection architecture utilizing supervised learning and privacy-first data processing.*
 
 ---
 
@@ -57,6 +42,6 @@ I am a **Backend & Context Engineer** specializing in the architecture of produc
 
 <div align="center">
 
-*"Architecting secure workflows and intelligent systems."*
+*Feel free to explore my pinned repositories below for detailed documentation, system architectures, and source code of my key projects.*
 
 </div>
