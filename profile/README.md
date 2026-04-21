@@ -1,8 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Anbu!+%F0%9F%91%8B;Context+%26+Backend+Engineer;Architecting+Agentic+Systems" alt="Typing SVG" />
+# Anbuselvan T.
+**Context & Backend Engineer | Architecting Agentic Systems**
 
-**Bridging the gap between AI Models and Production Backend Infrastructure.**
+*Bridging the gap between AI Models and Production Backend Infrastructure.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anbuselvan150306)
 [![Portfolio](https://img.shields.io/badge/Portfolio-anbudev.me-2E86C1?style=for-the-badge&logo=codeigniter)](https://anbudev.me)
@@ -14,7 +15,7 @@
 
 ## 👨‍💻 Professional Profile
 
-I am an **AI & Data Engineering Student** (4th Semester) specializing in **Context Engineering and Backend Infrastructure**. My expertise lies in architecting production-ready AI Proof of Concepts (POCs) and orchestrating agentic workflows to deliver secure, data-driven applications. 
+I am a 4th-Semester AI & Data Engineering student specializing in **Context Engineering and Backend Infrastructure**. My expertise lies in architecting production-ready AI Proof of Concepts (POCs) and orchestrating agentic workflows to deliver secure, data-driven applications.
 
 ---
 
@@ -39,42 +40,17 @@ I am an **AI & Data Engineering Student** (4th Semester) specializing in **Conte
 
 ---
 
-## 🚀 Key Engineering Projects
+## 🚀 Featured Architecture
 
-### 1. 🌊 Argo FloatChat | Agentic RAG POC
-![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
+**🌊 Argo FloatChat | Agentic RAG POC**
+*An Agentic RAG pipeline for conversational discovery within complex scientific NetCDF datasets, optimized for sub-2s latency.*
 
-> **Conversational discovery within complex scientific NetCDF datasets.**
-
-- **Architecture:** Developed an Agentic RAG pipeline using **Python** and **Pinecone**.
-- **Impact:** Optimized retrieval performance and achieved sub-2s latency through hierarchical chunking and contextual re-ranking strategies.
-
----
-
-### 2. 🛡️ Project Aegis | Security AI Backend
-![Status](https://img.shields.io/badge/Status-Production_Ready-blue?style=flat-square)
-
-> **Zero-Trust fraud detection backend architecture.**
-
-- **Architecture:** Engineered a backend utilizing intent analysis, audio scanning, and high-performance SQL optimization.
-- **Impact:** Delivered 100% technical documentation and reporting for the system architecture to ensure production-grade transparency and security.
-
----
-
-### 3. 🚨 Project Healer | Healthcare AI POC
-![Status](https://img.shields.io/badge/Status-Architecture_Phase-orange?style=flat-square)
-
-> **Sensor-based emergency detection system in a HIPAA-aligned architecture.**
-
-- **Architecture:** Supervised learning applied to smartphone sensor data extraction and processing.
-- **Impact:** Architected the public repository structure and technical README to define the full development lifecycle from data extraction to API deployment.
+*(Detailed documentation, system architectures, and additional projects like **Project Aegis** and **Project Healer** are available in my pinned repositories below.)*
 
 ---
 
 <div align="center">
 
 *"Architecting secure workflows and intelligent systems."*
-
-![Visitors](https://komarev.com/ghpvc/?username=Anbu-2006&color=2E86C1&style=flat-square)
 
 </div>
