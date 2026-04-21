@@ -1,96 +1,79 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&pause=1000&color=2E86C1&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Anbu!+%F0%9F%91%8B;AI+%26+Data+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Anbu!+%F0%9F%91%8B;Context+%26+Backend+Engineer;Architecting+Agentic+Systems" alt="Typing SVG" />
 
-**Bridging the gap between Complex AI Models and Production Infrastructure.**
+**Bridging the gap between AI Models and Production Backend Infrastructure.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anbuselvan-t-247917328)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anbuselvan150306)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anbudev.me-2E86C1?style=for-the-badge&logo=codeigniter)](https://anbudev.me)
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:anbuanbu8636@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 Engineering Profile
+## 👨‍💻 Professional Profile
 
-I am an **AI & Data Engineering Student** focused on the "hard parts" of AI: **Deployment, Pipelines, and Scale**. While others focus only on model accuracy, I focus on building the robust infrastructure that makes those models actually work in the real world.
-
-| Current Focus | Learning Goals (2026) |
-|---------------|----------------------|
-| 🐳 **Dockerization:** Containerizing ML Apps | 🌪️ **Apache Airflow:** Orchestrating Data |
-| 🐍 **Python/SQL:** Backend Logic | ⚡ **PySpark:** Big Data Processing |
-| 🛡️ **System Design:** API Architecture | ☁️ **AWS:** Cloud Deployment |
+I am an **AI & Data Engineering Student** (4th Semester) specializing in **Context Engineering and Backend Infrastructure**. My expertise lies in architecting production-ready AI Proof of Concepts (POCs) and orchestrating agentic workflows to deliver secure, data-driven applications. 
 
 ---
 
 ## 🛠️ Technical Arsenal
 
-### Languages
+### Core Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+### AI & Data Engineering
+![RAG Architecture](https://img.shields.io/badge/Context_Engineering_(RAG)-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Data Engineering & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Backend Operations
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2496ED?style=for-the-badge&logo=json&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile_(Jira)-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-## 🚀 Featured Engineering Projects
+## 🚀 Key Engineering Projects
 
-### 1. 🌊 FloatChart: Ocean Intelligence Platform
+### 1. 🌊 Argo FloatChat | Agentic RAG POC
+![Status](https://img.shields.io/badge/Status-Deployed-success?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-Live_Deployment-success?style=flat-square)
-![Type](https://img.shields.io/badge/Type-GenAI_Web_App-blue?style=flat-square)
+> **Conversational discovery within complex scientific NetCDF datasets.**
 
-> A GenAI-powered engine that translates natural language into SQL to visualize Oceanographic data.
-
-This project solves the problem of **"Data Accessibility"** for researchers. Instead of writing complex SQL queries, users ask plain English questions to visualize data from the ARGO float network.
-
-- **Tech Stack:** `Python` `Flask` `PostgreSQL` `LangChain` `LeafletJS`
-- **Engineering Challenge:** Optimized SQL queries to handle 1.5M+ rows of ocean data without latency.
-- **🔗 Live Demo:** [argofloat-chart.onrender.com](https://argofloat-chart.onrender.com)
+- **Architecture:** Developed an Agentic RAG pipeline using **Python** and **Pinecone**.
+- **Impact:** Optimized retrieval performance and achieved sub-2s latency through hierarchical chunking and contextual re-ranking strategies.
 
 ---
 
-### 2. 🚨 Real-Time Accident Detection System
+### 2. 🛡️ Project Aegis | Security AI Backend
+![Status](https://img.shields.io/badge/Status-Production_Ready-blue?style=flat-square)
 
-![Status](https://img.shields.io/badge/Status-Under_Development-orange?style=flat-square)
-![Type](https://img.shields.io/badge/Type-Computer_Vision-blue?style=flat-square)
+> **Zero-Trust fraud detection backend architecture.**
 
-> Automated safety monitoring using Computer Vision.
-
-Developing a pipeline to ingest video feeds and detect accidents in real-time.
-
-- **Tech Stack:** `OpenCV` `YOLO` `Python`
-- **Engineering Goal:** Moving from local processing to a stream-based architecture (simulating Kafka integration).
+- **Architecture:** Engineered a backend utilizing intent analysis, audio scanning, and high-performance SQL optimization.
+- **Impact:** Delivered 100% technical documentation and reporting for the system architecture to ensure production-grade transparency and security.
 
 ---
 
-## 🗺️ My 2026 Engineering Roadmap
+### 3. 🚨 Project Healer | Healthcare AI POC
+![Status](https://img.shields.io/badge/Status-Architecture_Phase-orange?style=flat-square)
 
-I am actively upskilling to become a **Full-Stack Data Engineer**.
+> **Sensor-based emergency detection system in a HIPAA-aligned architecture.**
 
-- [x] Master Python & SQL *(Completed)*
-- [x] Build End-to-End AI Web App *(FloatChart Completed)*
-- [ ] Containerize Applications *(Learning Docker 🐳)*
-- [ ] Build Automated Data Pipelines *(Learning Airflow 🌪️)*
-- [ ] Cloud Deployment *(Targeting AWS Certification ☁️)*
+- **Architecture:** Supervised learning applied to smartphone sensor data extraction and processing.
+- **Impact:** Architected the public repository structure and technical README to define the full development lifecycle from data extraction to API deployment.
 
 ---
 
 <div align="center">
 
-*"The code is just the beginning. The architecture is the destination."*
+*"Architecting secure workflows and intelligent systems."*
 
 ![Visitors](https://komarev.com/ghpvc/?username=Anbu-2006&color=2E86C1&style=flat-square)
 
