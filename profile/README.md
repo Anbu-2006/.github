@@ -1,6 +1,6 @@
 <div align="center">
 
-# Anbuselvan T.
+# ANBUSELVAN T.
 **Context & Backend Engineer | Architecting Agentic Systems**
 
 *Bridging the gap between AI Models and Production Backend Infrastructure.*
